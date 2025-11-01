@@ -1,4 +1,4 @@
-<img width="1700" height="285" alt="GJ_revectorizedLogo_001" src="https://github.com/user-attachments/assets/cf4a48fe-9757-4318-8d12-e45f2ec91761" />
+![fix](https://github.com/user-attachments/assets/cf4a48fe-9757-4318-8d12-e45f2ec91761)
 
 Everyone knows that RobTop doesn't want to release his art files, so it's up to us to recreate them in all of their vector glory.
 
